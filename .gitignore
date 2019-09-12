@@ -1,0 +1,5 @@
+*.svg
+.ipynb_checkpoints/
+Data/
+BRATS18-Results-45218075247526477/
+BRATS19-Results-845287209347006723/
